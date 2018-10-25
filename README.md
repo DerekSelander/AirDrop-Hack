@@ -1,5 +1,6 @@
 # AirDrop-Hack
 
+#### Works on iOS 11, need to still fix it up for 12
 
 ## The Story
 
